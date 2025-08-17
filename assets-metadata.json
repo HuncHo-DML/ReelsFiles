@@ -490,5 +490,17 @@
     "uploadedBy": "Admin",
     "size": 36905,
     "type": "image/jpeg"
+  },
+  {
+    "id": "file_1755464539546_g3ag2sguh",
+    "filename": "logo_1755464537952.jpg",
+    "originalName": "logo.jpg",
+    "section": "classmates",
+    "url": "https://github.com/HuncHo-DML/ReelsFiles/blob/main/classmates/logo_1755464537952.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/HuncHo-DML/ReelsFiles/main/classmates/logo_1755464537952.jpg",
+    "uploadedAt": "2025-08-17T21:02:19.546Z",
+    "uploadedBy": "Admin",
+    "size": 25312,
+    "type": "image/jpeg"
   }
 ]
