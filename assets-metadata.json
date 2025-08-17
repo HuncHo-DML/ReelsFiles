@@ -478,5 +478,17 @@
     "uploadedBy": "Admin",
     "size": 36905,
     "type": "image/jpeg"
+  },
+  {
+    "id": "file_1755462434791_5olbywhvx",
+    "filename": "profile_img_1755462432786.jpg",
+    "originalName": "profile img.jpg",
+    "section": "classmates",
+    "url": "https://github.com/HuncHo-DML/ReelsFiles/blob/main/classmates/profile_img_1755462432786.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/HuncHo-DML/ReelsFiles/main/classmates/profile_img_1755462432786.jpg",
+    "uploadedAt": "2025-08-17T20:27:14.791Z",
+    "uploadedBy": "Admin",
+    "size": 36905,
+    "type": "image/jpeg"
   }
 ]
