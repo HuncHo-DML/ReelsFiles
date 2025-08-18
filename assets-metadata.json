@@ -502,5 +502,17 @@
     "uploadedBy": "Admin",
     "size": 25312,
     "type": "image/jpeg"
+  },
+  {
+    "id": "file_1755512891454_oosp64qoq",
+    "filename": "Grade_12B-class-photo_1755512888874.jpg",
+    "originalName": "Grade 12B-class-photo.jpg",
+    "section": "events",
+    "url": "https://github.com/HuncHo-DML/ReelsFiles/blob/main/events/Grade_12B-class-photo_1755512888874.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/HuncHo-DML/ReelsFiles/main/events/Grade_12B-class-photo_1755512888874.jpg",
+    "uploadedAt": "2025-08-18T10:28:11.454Z",
+    "uploadedBy": "Admin",
+    "size": 43278,
+    "type": "image/jpeg"
   }
 ]
